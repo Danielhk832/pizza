@@ -1,0 +1,31 @@
+.hero-container {
+  background-image: url("./Assets/Pizza.jpg");
+  display: block;
+  align-items: center;
+  justify-content: center;
+  height: 70%;
+  padding: 15%;
+  width: auto;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+
+#order-pizza {
+  padding: 2%;
+  /* background-color: rgba(255, 255, 255, 0.5); */
+}
+
+.app {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
